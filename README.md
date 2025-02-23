@@ -1,5 +1,6 @@
 # Microwatch-OS-V1
 A new firmware that runs on micriobit V1 and older
+coming soon
 
 # 💫 About Me:
 I am currently working on a second version of Microwatch OS for Microbit with more features<br>i am new to github and this is my first public project
